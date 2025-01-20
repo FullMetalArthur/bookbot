@@ -1,2 +1,3 @@
 # bookbot
-My first guided proyect. I wish my future self good luck
+BookBot is my first project!
+# My first guided proyect. I wish my future self good luck
